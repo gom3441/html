@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<h2>텍스트 관련 Tag</h2>
+<p>나는 자랑스러운 태극기 앞에
+<!-- <p>문단을 분리하는 tag
+		<br /> 문단 내에서 줄 바꿈을 하여 보여주기 위한 tag
+ -->
+ <!-- 
+<b> bold
+<i> italic
+<strong> bold와 유사
+<em> Emphasized 강조
+<mark> : 형광펜 효과
+<small> : 글자를 작게
+  -->
+<p><b>조국</b>과 <strong>민족</strong>의 <em>무궁</em>한 
+<mark>영광</mark>을 <small>위하여</small> <br />
+몸과 마음을 바쳐 충성을 다할 것을 굳게 다짐합니다.
+
+
+<!-- 
+tag 는 2개 이상 겹쳐서 사용할수도 있다.
+<ins> inserted 밑줄 Text
+<del> delete 취소선 Text
+<sup> SuerScript 윗첫자
+<sub> SubScript 아랫첨자
+
+Text Tag는 여는 Tag와 닫는 Tag가 쌍으로 이루어야 하는데
+닫는 Tag를 생략하면 예상치 못한 결과가 생길수 있다.
+
+
+
+ -->
+
+<p><i>무궁</i>한 <ins>영광</ins>>을 위하여<br />
+<del>몸과 마음을 바쳐</del> 충성 <sup>2</sup>을 
+<sub>다할 것</sub>을 굳게 다짐합니다.
+<!-- 
+tag를 열었을때 자동으로 딷는 Tag가 나타날때는 특히 닫는 tag에 주의
+할 필요가 있다.
+
+ -->
+ 
+ 
+ <p><q>무궁한영광을위하여
+몸과 마음을 바쳐 충성을 다할 것을 굳게 다짐합니다.</q></p>
+
+<!-- 
+ blockquote
+ 본문내에 긴 문장을 인용하여 사용할떄 효과
+ -->
+ <!-- 
+ &quot;  : 큰따옴표 , double quotation
+ &apos;  : 작은따옴표 single quotation
+ &nbsp;  : 강제 빈칸 non-breaking space
+ 
+  -->
+
+<p> &quot;무궁&quot;한&apos;영광&apos;을위하여</p>
+<blockquote>
+몸과 마음을&nbsp;&nbsp;&nbsp;&nbsp; 바쳐 충성을 다할 것을 굳게 다짐합니다
+몸과 마음을 바쳐 충성을 다할 것을 굳게 다짐합니다
+몸과 마음을 바쳐 충성을 다할 것을 굳게 다짐합니다
+몸과 마음을 바쳐 충성을 다할 것을 굳게 다짐합니다
+몸과 마음을 바쳐 충성을 다할 것을 굳게 다짐합니다
+몸과 마음을 바쳐 충성을 다할 것을 굳게 다짐합니다
+</blockquote>
+</body>
+</html>

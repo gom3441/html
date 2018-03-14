@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<header>나의 홈페이지</header>
+	<section>
+		<header>본문제목</header>
+		<article>본문</article>
+		<article>본문</article>
+		<article>본문</article>
+		<article>본문</article>
+		<section>본문</section>
+	</section>
+
+	<footer>
+		<strong>회사</strong> : 대한민국
+	</footer>
+</body>
+</html>

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+
+	<table border="1" align="center">
+		<tr>
+			<td>1</td>
+			<td>2</td>
+		</tr>
+		<tr>
+			<td>우리나라</td>
+			<td>대한민국</td>
+		</tr>
+		<tr>
+			<td>우리나라 대한민국</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td colspan="2"><a target="_blank" href="http://www.naver.com/">네이버
+					바로가기</a></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td>Republic of Korea</td>
+		</tr>
+		<tr><td rowspan=2>Korea</td><td>대한민국</td></tr>
+		<tr><td>우리나라</td></tr>
+	</table>
+	
+</body>
+</html>
